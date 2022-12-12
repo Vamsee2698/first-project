@@ -1,0 +1,2 @@
+in this we can do multiplication process
+we can multiply 2 numbers a and b as a*b
