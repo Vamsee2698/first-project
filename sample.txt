@@ -1,4 +1,4 @@
 hiii my name is vamsee
 im currently pursuing my masters in umkc
 Im learning how to use GitHub repository
-This is my first class
+Deleted one line
